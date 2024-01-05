@@ -35,6 +35,7 @@ https://github.com/sibrael/Netology/commit/01f73e1af81773d36d1111a75eb04b7c43fc4
 
 https://github.com/sibrael/Netology/commit/cfadae0dc67b3b7370bf5ae70abd642cf0c712af
 
+---
 ### Задание 3
 
 Что нужно сделать:
@@ -49,6 +50,9 @@ https://github.com/sibrael/Netology/commit/cfadae0dc67b3b7370bf5ae70abd642cf0c71
 Не удаляйте ветку dev.
 В качестве ответа прикрепите ссылку на граф коммитов https://github.com/ваш-логин/ваш-репозиторий/network в ваш md-файл с решением.
 
+https://github.com/sibrael/netology/network
+
+---
 
 ### Задание 4
 
@@ -64,10 +68,7 @@ https://github.com/sibrael/Netology/commit/cfadae0dc67b3b7370bf5ae70abd642cf0c71
 Сделайте коммит и пуш.
 Сделайте мердж ветки conflict в основную ветку и решите конфликт так, чтобы в результате в файле оказался код из ветки conflict.
 В качестве ответа на задание прикрепите ссылку на граф коммитов https://github.com/ваш-логин/ваш-репозиторий/network в ваш md-файл с решением.
-....
-....
-....
-```
 
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота](ссылка на скриншот)`
+https://github.com/sibrael/netology/network
+
+---
