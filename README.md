@@ -33,6 +33,8 @@ https://github.com/sibrael/Netology/commit/01f73e1af81773d36d1111a75eb04b7c43fc4
 Сделайте коммит и пуш.
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 
+https://github.com/sibrael/Netology/commit/cfadae0dc67b3b7370bf5ae70abd642cf0c712af
+
 ### Задание 3
 
 Что нужно сделать:
