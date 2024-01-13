@@ -6,7 +6,8 @@
 Используя свой аккаунт на GitHub, сделайте себе форк репозитория. В этом же репозитории находится дополнительный материал для выполнения ДЗ.
 Создайте в jenkins Freestyle Project, подключите получившийся репозиторий к нему и произведите запуск тестов и сборку проекта go test . и docker build ..
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
-
+![Image alt](https://github.com/sibrael/git/blob/d00b3d5156d41b7f59a8bf5acce3a9b5cb29405f/1.1.png)
+![Image alt](https://github.com/sibrael/git/blob/d00b3d5156d41b7f59a8bf5acce3a9b5cb29405f/1.2.png)
 Started by user Udebkin Maksim
 Running as SYSTEM
 Building in workspace /var/lib/jenkins/workspace/Netology1
@@ -70,6 +71,8 @@ Finished: SUCCESS
 Создайте новый проект pipeline.
 Перепишите сборку из задания 1 на declarative в виде кода.
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
+
+![Image alt](https://github.com/sibrael/git/blob/d00b3d5156d41b7f59a8bf5acce3a9b5cb29405f/2.png)
 
 Started by user Udebkin Maksim
 [Pipeline] Start of Pipeline
