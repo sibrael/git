@@ -158,6 +158,9 @@ Finished: SUCCESS
 Измените pipeline так, чтобы вместо Docker-образа собирался бинарный go-файл. Команду можно скопировать из Dockerfile.
 Загрузите файл в репозиторий с помощью jenkins.
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
+![Image alt](https://github.com/sibrael/git/blob/6b6e250a208a390c98b4a0d11a85c78280e6f698/4.1.png)
+![Image alt](https://github.com/sibrael/git/blob/6b6e250a208a390c98b4a0d11a85c78280e6f698/4.2.png)
+![Image alt](https://github.com/sibrael/git/blob/6b6e250a208a390c98b4a0d11a85c78280e6f698/4.3.png)
 
 ---
 Задание 4*
@@ -166,3 +169,9 @@ Finished: SUCCESS
 Подсказка: используйте переменную BUILD_NUMBER.
 
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
+
+![Image alt](https://github.com/sibrael/git/blob/6b6e250a208a390c98b4a0d11a85c78280e6f698/4.1.png)
+![Image alt](https://github.com/sibrael/git/blob/6b6e250a208a390c98b4a0d11a85c78280e6f698/4.2.png)
+![Image alt](https://github.com/sibrael/git/blob/6b6e250a208a390c98b4a0d11a85c78280e6f698/4.3.png)
+
+https://github.com/sibrael/git/blob/6b6e250a208a390c98b4a0d11a85c78280e6f698/4.1.png
